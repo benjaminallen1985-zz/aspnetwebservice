@@ -1,0 +1,9 @@
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\bin\ProteinTrackerWebService.dll.config
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\bin\ProteinTrackerWebService.dll
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\bin\ProteinTrackerWebService.pdb
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\obj\Debug\ProteinTrackerWebService.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\obj\Debug\ProteinTrackerWebService.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\obj\Debug\ProteinTrackerWebService.dll
+C:\Users\Awesome\source\repos\ProteinTrackerWebService\ProteinTrackerWebService\obj\Debug\ProteinTrackerWebService.pdb
